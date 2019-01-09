@@ -13,4 +13,6 @@ function inc(a){
 function dec(a){
   return a--
 }
-function 
+function makeInt(n){
+  return parseInt(n,10)
+}
